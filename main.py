@@ -357,7 +357,7 @@ with col2:
 st.markdown("""
 <style>
 div.stButton > button {
-    width: 50%;
+    width: 100%;
     border-radius: 10px;
     height: 1em;
     font-size: 18px;
@@ -563,3 +563,4 @@ st.subheader("✨ Quote 4 U ✨")
 st.write(f"> *{random.choice(quotes)}*")
 
 st.caption(" Best Wishes By Nandini Verma")
+
